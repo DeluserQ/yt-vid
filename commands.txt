@@ -1,0 +1,2 @@
+Split mp4 into segments
+ffmpeg -i video.mp4 -c copy -map 0 -segment_time 600 -f segment video_%03d.mp4

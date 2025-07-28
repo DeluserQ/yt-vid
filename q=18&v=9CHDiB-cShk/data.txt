@@ -1,0 +1,14 @@
+ID = 18
+EXT = mp4
+RESOLUTION = 640x352
+FPS = 30
+CH = 2
+FILESIZE = 152.65MiB
+TBR = 561k
+PROTO = https
+VCODEC = avc1.42001E
+VBR = 
+ACODEC = mp4a.40.2
+ABR = 
+ASR = 44k
+MORE INFO = [en] 360p
